@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.py[cod]
+db.sqlite3
+*.log
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+*.exe
+lycee/
+random_projects/
+image_experiments/
