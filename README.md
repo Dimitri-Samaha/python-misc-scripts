@@ -1,17 +1,15 @@
 # Exercises
 
-School and practice scripts, grouped into subfolders — see each subfolder's own README:
+These are school and practice scripts, grouped into subfolders; see each subfolder's own README.
 
-- [`lycee/`](lycee/README.md) — French high-school math/programming homework
-- [`random_projects/`](random_projects/README.md) — assorted beginner Python exercises
-- [`image_experiments/`](image_experiments/README.md) — small OpenCV experiments
+- [`lycee/`](lycee/README.md): French high school math and programming homework.
+- [`random_projects/`](random_projects/README.md): assorted beginner Python exercises.
+- [`image_experiments/`](image_experiments/README.md): small OpenCV experiments.
 
 ## Loose scripts
 
-| File | What it does |
-|---|---|
-| `sierpinski_triangle.py` | Draws a Sierpiński triangle using the chaos game algorithm (needs `matplotlib`) |
-| `sql_connector_demo.py` | A generic MySQL `Connector` class wrapping `mysql.connector` for basic CRUD queries — a reference/demo copy of the same helper used in a couple of the other projects here |
+- `sierpinski_triangle.py`: draws a Sierpiński triangle using the chaos game algorithm (needs `matplotlib`).
+- `sql_connector_demo.py`: a generic MySQL `Connector` class wrapping `mysql.connector` for basic CRUD queries. It's a reference copy of the same helper used in a couple of the other projects here.
 
 ### Requirements
 ```
